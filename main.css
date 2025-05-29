@@ -18,3 +18,9 @@ body{
 .nav .nav-link, .navbar-brand, .navbar-brand:hover{
     color: azure;
 }
+
+/*botão navegação (Mobile - Tablets)*/
+
+.navbar-toggler{
+    background-color: #ffeae6;
+}
