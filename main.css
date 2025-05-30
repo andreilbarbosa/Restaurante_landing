@@ -1,3 +1,7 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
 .navbar{
     background-color: #e15f41;
 }
@@ -10,16 +14,14 @@
     color: #e15f41;
 }
 
-body{
-    font-family: Roboto, sans-serif;
-}
 
-.nav-item .nav-link.active{
+
+#cabecalho .nav .nav-link.active{
     background-color: azure;
     color: #e15f41;
 }
 
-.nav .nav-link, .navbar-brand, .navbar-brand:hover{
+#cabecalho .nav .nav-link, .navbar-brand, .navbar-brand:hover{
     color: azure;
 }
 
@@ -31,6 +33,17 @@ body{
 
 /*Section Sobre*/
 
-#section-sobre{
+#section-sobre, #section-cardapio{
     background-color: #ffeae6;
+}
+
+/*Section Cardápio*/
+
+.nav-cardapio .nav-link.active, .nav-cardapio .nav-link.active:hover{
+    background-color: #e15f41;
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover{
+    color: #e15f41;
 }
