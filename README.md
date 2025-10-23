@@ -1,7 +1,7 @@
-## Projeto para praticar minhas habilidades e servir como acompanhamento das aulas do módulo projeto 3.
+## Projeto Landing para um Restaurante 🍽
 ### Curso Front End Developer - EBAC 
 
-Fiz este repositório para praticar minhas habilidades com o framework Bootstrap e suas capacidades de estilização práticas por meio das classes. Além de ser um acompanhamento das aulas do módulo.
+Projeto do módulo projeto 3. Fiz este repositório para praticar minhas habilidades com o framework Bootstrap e suas capacidades de estilização práticas por meio das classes. Além de ser um acompanhamento das aulas do módulo.
 
 > Também estou praticando e utilizando as boas práticas de "Commitação", pois acredito que é o essencial para eu me tornar um bom dev! :D.
 
